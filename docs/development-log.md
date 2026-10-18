@@ -7,3 +7,4 @@
 - Implement move validation
 - Add win condition checking
 - Create player turn management
+- Commencing Phase 3: Display integration
