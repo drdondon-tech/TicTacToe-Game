@@ -1,5 +1,6 @@
 # TicTacToe Game
-A simple TicTacToe game implementation in Java.
+A simple TicTacToe game implementation in Java. 
+Updated in github
 ## Features
 - Console-based gameplay
 - Two-player support
